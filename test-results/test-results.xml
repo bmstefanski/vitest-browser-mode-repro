@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.112">
+    <testsuite name="app/hello-world.browser.test.tsx" timestamp="2025-08-06T12:12:01.170Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.112">
+        <testcase classname="app/hello-world.browser.test.tsx" name="renders name" time="0.1114">
+        </testcase>
+    </testsuite>
+</testsuites>
