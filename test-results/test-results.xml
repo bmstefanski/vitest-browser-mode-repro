@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.112">
-    <testsuite name="app/hello-world.browser.test.tsx" timestamp="2025-08-06T12:12:01.170Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.112">
-        <testcase classname="app/hello-world.browser.test.tsx" name="renders name" time="0.1114">
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="1.9529">
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.506Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.8319">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.8314">
+        </testcase>
+    </testsuite>
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.507Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.484">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.483">
+        </testcase>
+    </testsuite>
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.507Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.637">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.636">
         </testcase>
     </testsuite>
 </testsuites>

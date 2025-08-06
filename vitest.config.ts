@@ -15,6 +15,9 @@ export default defineConfig({
         web: {
           include: ["@testing-library/react", "react", "vitest-browser-react"],
         },
+        ssr: {
+          include: ["@testing-library/react", "react", "vitest-browser-react"],
+        },
       },
     },
     projects: [
