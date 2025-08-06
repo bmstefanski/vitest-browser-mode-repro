@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="1.9529">
-    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.506Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.8319">
-        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.8314">
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="2.0376">
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:40:25.125Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.9096">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.9091">
         </testcase>
     </testsuite>
-    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.507Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.484">
-        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.483">
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:40:25.126Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.508">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.508">
         </testcase>
     </testsuite>
-    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:22:09.507Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.637">
-        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.636">
+    <testsuite name="app/(Chat)/chat/hello-world.browser.test.tsx" timestamp="2025-08-06T13:40:25.126Z" hostname="Barts-MacBook-Pro.local" tests="1" failures="0" errors="0" skipped="0" time="0.62">
+        <testcase classname="app/(Chat)/chat/hello-world.browser.test.tsx" name="renders name" time="0.619">
         </testcase>
     </testsuite>
 </testsuites>

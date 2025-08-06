@@ -7,19 +7,12 @@ export default defineConfig({
   define: {
     "process.env": JSON.stringify({}),
   },
+  optimizeDeps: {
+    include: ["react", "vitest-browser-react", "react/jsx-dev-runtime"],
+  },
   test: {
     passWithNoTests: true,
     setupFiles: ["./vitest.setup.ts"],
-    deps: {
-      optimizer: {
-        web: {
-          include: ["@testing-library/react", "react", "vitest-browser-react"],
-        },
-        ssr: {
-          include: ["@testing-library/react", "react", "vitest-browser-react"],
-        },
-      },
-    },
     projects: [
       {
         test: {
